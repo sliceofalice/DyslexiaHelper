@@ -4,7 +4,7 @@ Uma extensão para ajudar pessoas com dislexia a melhorarem seu foco e habilidad
 
 ## Como Instalar a Extensão
 
-1. Clone esse repositório em uma pasta utilizando:
+1. Clone este repositório em uma pasta utilizando:
    ```
    git clone https://github.com/sliceofalice/DyslexiaHelper.git
 2. Abra o Google Chrome em seu computador
