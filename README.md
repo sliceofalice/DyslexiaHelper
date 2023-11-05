@@ -1,6 +1,6 @@
 # DyslexiaHelper
 
-Uma extensão para judar pessoas com dislexia a melhorarem seu foco e habilidades de leitura de páginas web
+Uma extensão para ajudar pessoas com dislexia a melhorarem seu foco e habilidades de leitura de páginas web
 
 ## Como Instalar a Extensão
 
